@@ -1,0 +1,5 @@
+{
+  "name": "Vedeževalec",
+  "description": "Aplikacija za generiranje in interpretacijo vedeževalnih kart s pomočjo Gemini API.",
+  "requestFramePermissions": []
+}
